@@ -13,6 +13,8 @@ Technologies Used:
 - CSS: Used for styling and layout of the app's user interface.
 - React JS: Used as the JavaScript library to build the app's user interface and manage state.
 - Material UI: Utilized for pre-designed UI components and styling.
+- Use of React Hooks for maintaining state.
+- Leveraged concept of parent-child prop passing.
 
 How to Use:
 1. Clone the repository.
